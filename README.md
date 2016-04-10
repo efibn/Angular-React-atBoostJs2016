@@ -1,17 +1,13 @@
 #Angular-React at Boost(js) 2016#
 
-	Talk about how combine and work with Angular and React in the same application and enjoy from the goodies of both frameworks
-	
-	In order to make the samples work
-	
-This is just a little sandbox for me to play with React + Angular together.
+Talk about how combine and work with Angular and React in the same application and enjoy from the goodies of both frameworks
 
 To run the demo:
 
 ```
-cd angular_react_directive_example
+cd angular-react
 npm install
-npm run dev
-Browse to http://localhost:8080
+gulp
 ```	
 
+The presentation was uploaded to [combining-angular-react](http://www.slideshare.net/spederiva/combining-angular-and-react-together)
